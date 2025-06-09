@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.de766969.css",
+    "main.js": "/portfolio/static/js/main.71df708c.js",
+    "static/js/453.6ab12e02.chunk.js": "/portfolio/static/js/453.6ab12e02.chunk.js",
+    "static/media/gprahics_0.png": "/portfolio/static/media/gprahics_0.e5e3c76dc227fd130c59.png",
+    "static/media/graphic_5.png": "/portfolio/static/media/graphic_5.59172477cdbe4e7e44d0.png",
+    "static/media/graphic_2.png": "/portfolio/static/media/graphic_2.9faafbe2269f7b97b0ee.png",
+    "static/media/graphic_3.png": "/portfolio/static/media/graphic_3.6c0d81048746ad1b9099.png",
+    "static/media/graphic_4.png": "/portfolio/static/media/graphic_4.cf38eb74140583e5b4ba.png",
+    "static/media/graphic_1.png": "/portfolio/static/media/graphic_1.67d352cf89cf363c9ff3.png",
+    "static/media/sign_tejas.png": "/portfolio/static/media/sign_tejas.b209709932b7ec260d93.png",
+    "static/media/graphic_7.png": "/portfolio/static/media/graphic_7.447e161b61e409a794ef.png",
+    "static/media/graphic_6.png": "/portfolio/static/media/graphic_6.e65a39facdba18c76ea6.png",
+    "static/media/IMG-20250221-WA0017-removebg-preview.png": "/portfolio/static/media/IMG-20250221-WA0017-removebg-preview.3c9267c3028c78f22a01.png",
+    "static/media/hem.JPG": "/portfolio/static/media/hem.7cb71372ea7ad83af1da.JPG",
+    "static/media/Tejas.png": "/portfolio/static/media/Tejas.ef020e5a9a41ca6a6e19.png",
+    "static/media/heart_white.png": "/portfolio/static/media/heart_white.f3692e319a97b7aecc6f.png",
+    "static/media/arrow.png": "/portfolio/static/media/arrow.4f0c343a5cd7d7bcb18e.png",
+    "static/media/tejas_top.png": "/portfolio/static/media/tejas_top.16f123174f1c22d347a2.png",
+    "static/media/heart_red.png": "/portfolio/static/media/heart_red.bb336946c5b2460718df.png",
+    "static/media/tejas_bottom.png": "/portfolio/static/media/tejas_bottom.c84042f2e8ac59cb43db.png",
+    "static/media/download_fav.png": "/portfolio/static/media/download_fav.492f8cc248e948b8c39a.png",
+    "static/media/Group 4.svg": "/portfolio/static/media/Group 4.bd7a640bb037b71a9bfe.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/Group 1 (2).svg": "/portfolio/static/media/Group 1 (2).e9281fbe5e590c7494a231caad497424.svg",
+    "main.de766969.css.map": "/portfolio/static/css/main.de766969.css.map",
+    "main.71df708c.js.map": "/portfolio/static/js/main.71df708c.js.map",
+    "453.6ab12e02.chunk.js.map": "/portfolio/static/js/453.6ab12e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de766969.css",
+    "static/js/main.71df708c.js"
+  ]
+}
